@@ -24,8 +24,8 @@
     }
   ],
   "require": {
-    "php": ">=5.3.3",
-    "qiniu/php-sdk": "^7.2",
+    "php": "^8.0.2",
+    "qiniu/php-sdk": "^7.4.1",
     "league/flysystem": "^3.0"
   },
   "autoload": {
